@@ -20,7 +20,7 @@ To truly highlight the artwork, I chose a strict minimalist visual identity. I u
 
 For the typography, I selected Neue Montreal because it provides a clean, modern hierarchy that makes reading on mobile devices effortless.
 
-![A black and white design system board showing the Neue Montreal font, color palette, and minimalist line icons.](Design system.jpg)
+![A black and white design system board showing the Neue Montreal font, color palette, and minimalist line icons.](warhol-design-system.png)
 
 Caption: The minimalist design system ensures the user interface does not compete with the artwork.
 
@@ -30,6 +30,6 @@ I built a high-fidelity prototype and conducted moderated usability testing with
 
 Based on this, I adjusted the visual hierarchy and moved the primary call-to-action to a more prominent location. The final product simplifies the visitor journey into a seamless digital companion.
 
-![Three mobile screens showing the final high-fidelity UI with a dark navigation bar and colorful exhibition cards.](Mockup.jpg)
+![Three mobile screens showing the final high-fidelity UI with a dark navigation bar and colorful exhibition cards.](warhol-final-ui.png)
 
 Caption: The final refined UI balances functional monochrome navigation with vibrant exhibition content.
