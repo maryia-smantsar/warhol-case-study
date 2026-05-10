@@ -1,19 +1,19 @@
-# The Warhol: Designing a Museum App That Gets Out of the Way 🎨🎟️
+# Case Study: The Andy Warhol museum app
 
-**Year:** 2026 · **Role:** UX/UI Designer
+**Year:** 2025 · **Role:** UX/UI Designer
 
 ---
 
-## Why Museum Apps Usually Fail — And What I Wanted to Do Differently
+## Why museum apps usually fail and what I wanted to do differently
 
 Museum apps are usually an afterthought.
 They exist, but nobody actually wants to use them.
 
 For a museum dedicated to Andy Warhol — someone who spent his entire career making art feel accessible — that felt especially wrong.
 
-I set out to fix three specific things:
+I set out to fix 3 specific things:
 
-| # | The friction | My approach |
+|  | The friction | My approach |
 |---|---|---|
 | 1 | International visitors landing on a screen that isn't in their language | Language selector as the very first choice |
 | 2 | Too many exhibitions with no clear way in | Three tabs: Past · Current · Upcoming |
@@ -21,7 +21,7 @@ I set out to fix three specific things:
 
 ---
 
-## Mapping the Whole Journey Before Touching a Single Screen
+## Mapping the whole journey before touching a single screen
 
 The first thing I did wasn't design — it was thinking.
 
