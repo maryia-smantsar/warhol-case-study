@@ -32,7 +32,7 @@ I mapped out every step a visitor would take, from opening the app to holding a 
 
 ---
 
-## Looking at What Already Exists — and Where It Falls Short
+## Looking at what already exists — and where It falls short
 
 Before designing anything, I looked at how other cultural apps handle the same challenges. What works, what feels dated, and where there's an obvious gap.
 
@@ -41,7 +41,7 @@ Before designing anything, I looked at how other cultural apps handle the same c
 
 ---
 
-## Black and White — Not Because It's Safe, But Because It's Right
+## Black and white — not because it's safe, but because It's right
 
 The color decision came early and it was deliberate.
 
@@ -56,7 +56,7 @@ Typography: **Neue Montreal** for headings — neutral and confident. **Namu 185
 
 ---
 
-## Building the Screens: From First Impression to Final Ticket
+## Building the screens: from first Impression to final ticket
 
 ### The First Screen Has One Job: Set the Tone
 
