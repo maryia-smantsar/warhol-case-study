@@ -13,7 +13,7 @@ For a museum dedicated to Andy Warhol — someone who spent his entire career ma
 I set out to fix 3 specific things:
 
 |  | The friction | My approach |
-|---|---|---|
+
 | 1 | International visitors landing on a screen that isn't in their language | Language selector as the very first choice |
 | 2 | Too many exhibitions with no clear way in | Three tabs: Past · Current · Upcoming |
 | 3 | Too many steps between "I want to go" and actually having a ticket | Linear, dead-end-free flow — 8 screens total |
