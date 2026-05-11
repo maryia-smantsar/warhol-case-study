@@ -32,7 +32,7 @@ I mapped out every step a visitor would take, from opening the app to holding a 
 
 ---
 
-## Looking at What Already Exists — and Where It Falls Short
+## Looking at what already exists — and where It falls short
 
 Before designing anything, I looked at how other cultural apps handle the same challenges. What works, what feels dated, and where there's an obvious gap.
 
@@ -41,7 +41,7 @@ Before designing anything, I looked at how other cultural apps handle the same c
 
 ---
 
-## Black and White — Not Because It's Safe, But Because It's Right
+## Black and white — not because it's safe, but because It's right
 
 The color decision came early and it was deliberate.
 
@@ -56,9 +56,9 @@ Typography: **Neue Montreal** for headings — neutral and confident. **Namu 185
 
 ---
 
-## Building the Screens: From First Impression to Final Ticket
+## Building the screens: from first Impression to final ticket
 
-### The First Screen Has One Job: Set the Tone
+### The first screen has one job: set the tone
 
 No welcome message. No tagline. Just a grid of Warhol portraits — instantly recognizable, zero explanation needed. The language selector sits quietly in the corner, visible to anyone who needs it.
 
@@ -67,16 +67,7 @@ No welcome message. No tagline. Just a grid of Warhol portraits — instantly re
 
 ---
 
-### A Menu That Becomes a Moment
-
-Most hamburger menus open into a list. This one opens into a full-screen overlay with the iconic Warhol banana. Navigation stops being a utility and starts being an experience.
-
-![Four screens showing the home page with museum description and building photo, a user profile page, the home screen again, and the full-screen navigation menu with the banana illustration behind Home, About, Exhibitions, Tickets, Contact.](Mockup-home.png)
-*Home screen and navigation menu. The banana wasn't decorative — it was a design decision.*
-
----
-
-### Exhibitions: Clear Tabs, Direct Paths
+### Exhibitions: clear tabs, direct paths
 
 Three tabs keep the content organized without burying anything. Every exhibition card leads directly to ticket selection — no extra steps, no extra pages.
 
@@ -85,7 +76,7 @@ Three tabs keep the content organized without burying anything. Every exhibition
 
 ---
 
-### Ticket Purchase: One Direction Only
+### Ticket purchase: one direction only
 
 Date → Time → Fare type → Cart. No branching, no going back to find something. The cart is always one tap away.
 
@@ -94,25 +85,7 @@ Date → Time → Fare type → Cart. No branching, no going back to find someth
 
 ---
 
-## What Testing Revealed — and What I Changed Because of It
-
-I ran moderated testing with two people, both given the same task:
-
-> *"You want to buy a ticket. Start from the home screen and complete the purchase."*
-
-- **Student, 22** — finished in about 30 seconds. Called it *"super intuitive and fast."* Went straight to the menu without hesitation.
-- **Tourist, 45** — finished in about a minute. Spent several seconds on the home screen looking for a way in before finding the menu icon.
-
-That second result was the one that mattered.
-
-The hamburger icon wasn't invisible — but it wasn't obvious enough for someone who wasn't already looking for it. I redesigned the home screen to include a persistent CTA button. One small change. The friction disappeared.
-
-![A usability testing summary slide showing the task brief, two respondent profiles (Student 22 and Tourist 45), their individual findings, and the key conclusion that navigation logic and overall flow were functional and comprehensible for both users.](Testing-process.png)
-*Testing results. Both users completed the task — but the tourist's hesitation pointed directly at what needed to change.*
-
----
-
-## What I Learned
+## What I learned
 
 Designing for a cultural space is a balancing act.
 
